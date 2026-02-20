@@ -5,6 +5,6 @@ int main() {
     printf("Goodbye");
     int a = 0;
     printf("%d", &a);
-    printf("hello");
+
     return 0;
 }
